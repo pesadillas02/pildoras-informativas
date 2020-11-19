@@ -44,7 +44,7 @@ figure{ float: left;
 figure img{ padding: 4px;
     background-color: aqua;
     border-radius: 20px;
-    -webkit-transition: -webkit-transform 0.3s ease-in-out 0.1s;
+    transition: -webkit-transform 0.3s ease-in-out 0.1s;
     box-shadow: gray 5px 5px 5px;
     margin-top: 20px; margin-left: 10px;
 
@@ -65,7 +65,7 @@ footer p{
     font-family: georgia;
     font-size: 1em;
     margin: 10px 8px;
-    color: gray;
+    color: black;
 
 }
 figcaption{ font-family: Arial, Helvetica, sans-serif;
